@@ -146,8 +146,16 @@ img {
   padding: 2rem 0 4rem;
 }
 
+
+.skill-name,
 .section__title {
   font-size: var(--h1-font-size);
+  color: var(--title-color);
+}
+
+.btn-project,
+.ic-color,
+.dis{
   color: var(--title-color);
 }
 
@@ -156,6 +164,7 @@ img {
   font-size: var(--small-font-size);
   margin-bottom: var(--mb-3);
 }
+
 
 .section__title,
 .section__subtitle {
